@@ -1,0 +1,16 @@
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\bin\Debug\netstandard2.0\xamarinExample.deps.json
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\bin\Debug\netstandard2.0\xamarinExample.dll
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\bin\Debug\netstandard2.0\xamarinExample.pdb
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\obj\Debug\netstandard2.0\xamarinExample.csprojAssemblyReference.cache
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\obj\Debug\netstandard2.0\xamarinExample.csproj.CoreCompileInputs.cache
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\obj\Debug\netstandard2.0\xamarinExample.AssemblyInfoInputs.cache
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\obj\Debug\netstandard2.0\xamarinExample.AssemblyInfo.cs
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\obj\Debug\netstandard2.0\xamarinExample.dll
+F:\Projects\xamarinExample\xamarinExample\xamarinExample\obj\Debug\netstandard2.0\xamarinExample.pdb
